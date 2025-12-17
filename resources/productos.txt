@@ -1,0 +1,10 @@
+35;salmon;8500;150
+101;jurel;2500;300
+102;salmon austral;12000;80
+103;cholgas;4500;200
+104;algas;1500;500
+105;tilapia;3500;120
+106;almejas;7000;100
+107;ostras;5500;150
+108;reineta;4800;180
+109;merluza;6500;90
